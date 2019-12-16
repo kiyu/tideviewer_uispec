@@ -1,10 +1,9 @@
 ---
-title: doc title
+title: ここにタイトル
 screen: ./img/screen1.png?highlight=[[216,193,150,70],[720,140,130,50]]
 ---
 
-Write docs with markdown.
-You can also contain uiflow code block.
+ここに説明
 
 ```uiflows
 [What the user sees]
