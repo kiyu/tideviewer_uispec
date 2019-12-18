@@ -1,0 +1,23 @@
+{
+  "name": "tideviewer_uispec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ui-spec-md generate -m src -d dist/public -t theme/standard",
+    "edit-server": "ui-spec-md edit-server -m src -d dist/edit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiyu/tideviewer_uispec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiyu/tideviewer_uispec/issues"
+  },
+  "homepage": "https://github.com/kiyu/tideviewer_uispec#readme",
+  "devDependencies": {
+    "ui-spec-md": "^0.3.3"
+  }
+}
