@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate": "ui-spec-md generate -m md -d dist/public -t theme/standard",
-    "edit-server": "ui-spec-md edit-server -m md -d dist/edit"
+    "generate": "ui-spec-md generate -m src -d dist/public -t theme/standard",
+    "edit-server": "ui-spec-md edit-server -m src -d dist/edit"
   },
   "repository": {
     "type": "git",
